@@ -1,7 +1,5 @@
 # test-promise
 
-[![dependencies](https://david-dm.org/piecioshka/test-promise.svg)](https://github.com/piecioshka/test-promise)
-
 :ledger: Test app with Promises (ES2015)
 
 ## Demo 🎉
