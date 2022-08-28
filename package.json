@@ -10,15 +10,13 @@
         "url": "https://piecioshka.pl/"
     },
     "scripts": {
-        "clear": "rm -rf dist/ coverage/ .nyc_output/",
-        "clear:all": "rm -rf node_modules/ && npm run clear",
-        "lint": "eslint ."
+        "start": "http-server -c-1 src/",
+        "deploy": "cross-env NODE_DEBUG=gh-pages gh-pages -d src/"
     },
-    "dependencies": {},
     "devDependencies": {
-        "eslint": "^5.11.0",
-        "eslint-config-piecioshka": "^2.0.1",
-        "http-server": "^0.11.1"
+        "cross-env": "^7.0.3",
+        "gh-pages": "^4.0.0",
+        "http-server": "^14.1.1"
     },
     "repository": {
         "type": "git",
