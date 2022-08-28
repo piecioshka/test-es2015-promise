@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "test-promise",
+    "name": "test-es2015-promise",
     "description": "",
     "version": "1.0.0",
     "license": "MIT",
@@ -20,6 +20,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:piecioshka/test-promise.git"
+        "url": "git@github.com:piecioshka/test-es2015-promise.git"
     }
 }

@@ -1,10 +1,10 @@
-# test-promise
+# test-es2015-promise
 
 :ledger: Test app with Promises (ES2015)
 
 ## Demo 🎉
 
-<https://piecioshka.github.io/test-promise>
+<https://piecioshka.github.io/test-es2015-promise>
 
 ## Features
 
