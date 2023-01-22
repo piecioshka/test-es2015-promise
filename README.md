@@ -2,7 +2,7 @@
 
 :ledger: Test app with Promises (ES2015)
 
-## Demo 🎉
+## Preview 🎉
 
 <https://piecioshka.github.io/test-es2015-promise>
 
